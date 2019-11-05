@@ -37,7 +37,11 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+<<<<<<< HEAD
 # Windows
+=======
+#Win 
+>>>>>>> 6db9a0690b6331599337dc757db8b3ced5ae4996
 
 # Windows thumbnail cache files
 Thumbs.db
